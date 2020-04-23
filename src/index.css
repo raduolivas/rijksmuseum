@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Bhaina+2|Open+Sans&display=swap');
+
+body {
+  margin: 100px;
+  font-family: 'Baloo Bhaina 2', cursive !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
